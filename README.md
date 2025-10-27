@@ -3,7 +3,6 @@
 A hobby recommendation system using Node.js backend and Python machine learning model.
 
 ## Project Structure
-
 ```
 hobbies-mvp/
 ├── backend/                  # Node.js backend
